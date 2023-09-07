@@ -1,0 +1,25 @@
+/* Overriding browser defaults */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+
+header {
+    background-color: red;
+}
+
+/* Main */
+
+main {
+    background-color: lightblue;
+}
+
+/* Footer */
+
+footer {
+    background-color: orange;
+}
