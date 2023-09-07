@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: 'Lato', sans-serif;
+    font-family: 'RaleWay', sans-serif;
 }
 
 h1, h2, h3 {
@@ -267,3 +267,14 @@ main {
 
 
 }
+
+
+
+
+
+/* font reference:
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+*/
